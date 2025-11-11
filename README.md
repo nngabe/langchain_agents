@@ -39,7 +39,11 @@ contours of an agreement began to emerge. The agreement includes bipartisan bill
 Update from node generate_answer
 ================================== Ai Message ==================================
 
-The government shutdown is currently the longest in history, affecting millions of Americans, with federal employees furloughed or working without pay and disruptions in services like SNAP benefits and air travel. Bipartisan negotiations are underway in the Senate to reach a deal that would reopen the government and address expiring health insurance subsidies. However, there is tension between parties, with Democrats criticizing the proposed deal for not adequately addressing healthcare costs.
+The government shutdown is currently the longest in history, affecting millions of Americans,
+with federal employees furloughed or working without pay and disruptions in services like SNAP
+benefits and air travel. Bipartisan negotiations are underway in the Senate to reach a deal that
+would reopen the government and address expiring health insurance subsidies. However, there is tension
+between parties, with Democrats criticizing the proposed deal for not adequately addressing healthcare costs.
 ```
 
 ```
