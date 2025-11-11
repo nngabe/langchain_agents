@@ -30,9 +30,13 @@ Update from node retrieve
 ================================= Tool Message =================================
 Name: retrieve_news_articles
 
-X LinkedIn Bluesky Flipboard Pinterest Reddit WASHINGTON (AP) — Talks intensified Tuesday toward a potential end to the government shutdown, as the federal closure was on track to become the longest ever, disrupting the lives of millions of Americans...
+X LinkedIn Bluesky Flipboard Pinterest Reddit WASHINGTON (AP) — Talks intensified
+Tuesday toward a potential end to the government shutdown, as the federal closure was
+on track to become the longest ever, disrupting the lives of millions of Americans...
 
-contours of an agreement began to emerge. The agreement includes bipartisan bills worked out by the Senate Appropriations Committee to fund parts of government — food aid, veterans programs and the legislative branch, among other things...
+contours of an agreement began to emerge. The agreement includes bipartisan bills
+worked out by the Senate Appropriations Committee to fund parts of government — food
+aid, veterans programs and the legislative branch, among other things...
 
 ...
 
@@ -66,9 +70,13 @@ Name: retrieve_news_articles
 
 More news
 
-X LinkedIn Bluesky Flipboard Pinterest Reddit NEW YORK (AP) — Big Tech and other superstars of the U.S. stock market got back to rallying on Monday, and Wall Street recovered most of its loss from last week.The S&P 500 climbed 1.5%...
+X LinkedIn Bluesky Flipboard Pinterest Reddit NEW YORK (AP) — Big Tech and other
+superstars of the U.S. stock market got back to rallying on Monday, and Wall Street
+recovered most of its loss from last week.The S&P 500 climbed 1.5%...
 
-That has analysts’ expectations for earnings in 2026 nearly all the way back to where they were before Trump shocked financial markets in April with his “Liberation Day” announcement of worldwide tariffs. All told, the S&P 500 rose 103.63 points to 6,832.43...
+That has analysts’ expectations for earnings in 2026 nearly all the way back to
+where they were before Trump shocked financial markets in April with his “Liberation Day”
+announcement of worldwide tariffs. All told, the S&P 500 rose 103.63 points to 6,832.43...
 
 
 Update from node generate_answer
