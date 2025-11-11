@@ -2,7 +2,7 @@
 
 This repository builds a conversational agent that can answer questions from recent news articles. We start with a template agent in `langchain_tutorial.ipynb` from the LangChain [docs](https://docs.langchain.com/oss/python/langchain/rag). 
 
-Then, we build an agent in `pinecone_rag.ipynb` as follows:
+We then build an agent in `pinecone_rag.ipynb` as follows:
 1. Collect recent news articles from AP News and Reuters.
 2. Build a vector DB with Pinecone and OpenAI embeddings.
 3. Define an agent with LangGraph that iteratively retrieves documents and refines the question based on available information (see figure below).
