@@ -9,13 +9,14 @@ We then build an agent in `pinecone_rag.ipynb` as follows:
 4. Answer the refined question.
 
 The LangGraph agent flow can be seen here:
-<img width="512" height="560" alt="agent_flow" src="https://github.com/user-attachments/assets/43e07865-79d1-4979-963e-9ddecbb6d42b" />
+<img width="420" height="520" alt="agent_flow" src="https://github.com/user-attachments/assets/43e07865-79d1-4979-963e-9ddecbb6d42b" />
 
 ## Sample Q&A outputs
 Here are some sample Q&A results. See more details of the LangGraph output at the bottom of `pinecone_rag.ipynb`:
 
-Query: "what is happening with the government shutdown?"
 ```
+Query: "what is happening with the government shutdown?"
+
 Update from node generate_query_or_respond
 ================================== Ai Message ==================================
 Tool Calls:
@@ -40,8 +41,9 @@ Update from node generate_answer
 The government shutdown is currently the longest in history, affecting millions of Americans, with federal employees furloughed or working without pay and disruptions in services like SNAP benefits and air travel. Bipartisan negotiations are underway in the Senate to reach a deal that would reopen the government and address expiring health insurance subsidies. However, there is tension between parties, with Democrats criticizing the proposed deal for not adequately addressing healthcare costs.
 ```
 
-Query: "what is happening with the market?"
 ```
+Query: "what is happening with the market?"
+
 Update from node generate_query_or_respond
 ================================== Ai Message ==================================
 Tool Calls:
@@ -68,5 +70,3 @@ Update from node generate_answer
 
 The U.S. stock market is experiencing a rebound, with major indices like the S&P 500, Dow Jones Industrial Average, and Nasdaq composite all showing significant gains. Big Tech and AI-related stocks, particularly Nvidia, have been key drivers of this rally. Additionally, many companies in the S&P 500 have reported stronger-than-expected profits, contributing to the market's positive momentum.
 ```
-
-
