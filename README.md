@@ -39,11 +39,10 @@ contours of an agreement began to emerge. The agreement includes bipartisan bill
 Update from node generate_answer
 ================================== Ai Message ==================================
 
-The government shutdown is currently the longest in history, affecting millions of Americans,
-with federal employees furloughed or working without pay and disruptions in services like SNAP
-benefits and air travel. Bipartisan negotiations are underway in the Senate to reach a deal that
-would reopen the government and address expiring health insurance subsidies. However, there is tension
-between parties, with Democrats criticizing the proposed deal for not adequately addressing healthcare costs.
+The government shutdown is currently the longest in history, affecting millions of Americans, with federal employees
+furloughed or working without pay and disruptions in services like SNAP benefits and air travel. Bipartisan negotiations are
+underway in the Senate to reach a deal that would reopen the government and address expiring health insurance subsidies.
+However, there is tension between parties, with Democrats criticizing the proposed deal for not adequately addressing healthcare costs.
 ```
 
 ```
@@ -73,5 +72,7 @@ That has analysts’ expectations for earnings in 2026 nearly all the way back t
 Update from node generate_answer
 ================================== Ai Message ==================================
 
-The U.S. stock market is experiencing a rebound, with major indices like the S&P 500, Dow Jones Industrial Average, and Nasdaq composite all showing significant gains. Big Tech and AI-related stocks, particularly Nvidia, have been key drivers of this rally. Additionally, many companies in the S&P 500 have reported stronger-than-expected profits, contributing to the market's positive momentum.
+The U.S. stock market is experiencing a rebound, with major indices like the S&P 500, Dow Jones Industrial Average, and Nasdaq
+composite all showing significant gains. Big Tech and AI-related stocks, particularly Nvidia, have been key drivers of this rally.
+Additionally, many companies in the S&P 500 have reported stronger-than-expected profits, contributing to the market's positive momentum.
 ```
