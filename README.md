@@ -9,6 +9,7 @@ We then build an agent in `pinecone_rag.ipynb` as follows:
 4. Answer the refined question.
 
 The LangGraph agent flow can be seen here:
+
 <img width="420" height="520" alt="agent_flow" src="https://github.com/user-attachments/assets/43e07865-79d1-4979-963e-9ddecbb6d42b" />
 
 ## Sample Q&A outputs
